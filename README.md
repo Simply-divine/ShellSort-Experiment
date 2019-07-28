@@ -1,5 +1,5 @@
 # ShellSort
-##Aim:
+## Aim:
 To find the time taken for Shell sort algorithm using different h-sorted arrays.
 ---------------------------------------
 Following sorts can be analyzed:

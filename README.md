@@ -11,5 +11,5 @@ Following sorts can be analyzed:
 1,3,7,15,...
 
 
-*3 Knuth Sequence:
+3) Knuth Sequence:
 1,4,7,10...
